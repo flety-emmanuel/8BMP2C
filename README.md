@@ -14,6 +14,16 @@ test160x128.bmp 8 bits file :
 
 ![alt text](https://raw.githubusercontent.com/protongamer/8BMP2C/master/test160x128.bmp)
 
+
+In ST7735 :
+
+![alt text](https://raw.githubusercontent.com/protongamer/8BMP2C/master/IMG_20190519_142515.jpg)
+
+
 test96x64.bmp 8 bits file :
 
 ![alt text](https://raw.githubusercontent.com/protongamer/8BMP2C/master/test96x64.bmp)
+
+In SSD1331 :
+
+![alt text](https://raw.githubusercontent.com/protongamer/8BMP2C/master/IMG_20190519_140655.jpg)
